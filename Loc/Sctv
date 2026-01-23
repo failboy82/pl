@@ -12,4 +12,4 @@
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=0
 #KODIPROP:network-caching=2000
 #EXT-X-I-FRAMES-ONLY
-http://mytv-extra.com:88/1827214806/9371309264/1067262
+http://mytv-extra.com:88/live/1827214806/9371309264/1067262.m3u8
