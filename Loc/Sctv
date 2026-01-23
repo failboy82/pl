@@ -2,4 +2,14 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-http://mytv-extra.com:88/live/1827214806/9371309264/1067262.m3u8
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+http://mytv-extra.com:88/1827214806/9371309264/1067262
