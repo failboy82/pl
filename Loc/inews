@@ -4,5 +4,7 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:BANDWIDTH=10300000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-https://mytv-extra.com:88/live/1827214806/9371309264/149820.m3u8
+#EXTVLCOPT:inputstream.ffmpegdirect.stream_mode=stream.config
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-STREAM-INF:BANDWIDTH=103000000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://mytv-extra.com:88/live/1827214806/9371309264/live.m3u8?stream=149820&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
