@@ -7,4 +7,5 @@
 #EXTVLCOPT:inputstream.ffmpegdirect.stream_mode=stream.config
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-STREAM-INF:BANDWIDTH=103000000,AVERAGE-BANDWIDTH=7191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+https://s.id/rzhBS
 https://allcutv.rctiplus.id/inews2023-avc1_4000000=29-mp4a_128000_eng=23.m3u8?output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
