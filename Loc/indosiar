@@ -8,7 +8,7 @@
 #KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1&-reconnect_delay_max=5
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
 #EXT-X-I-FRAMES-ONLY
-#EXTVLCOPT:m_messageQueue.SetMaxTimeSize(8.0)
+#EXTVLCOPT:SetMaxTimeSize(8.0)
 
 #EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
 http://vipgerretger.top:8080/live/VIP01191699804893001/61699804893673/live.m3u8?stream=34327&output=m3u8
