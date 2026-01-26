@@ -2,10 +2,10 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-ALLOW-CACHE:YES
-#EXTVLCOPT:network-caching=100000000
+#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:inputstream.ffmpegdirect.stream_mode=stream.config
-#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#EXTVLCOPT:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1&-reconnect_delay_max=5
 #EXT-X-I-FRAMES-ONLY
 
 #EXT-X-STREAM-INF:BANDWIDTH=546239,CODECS="mp4a.40.5,avc1.4d4015",RESOLUTION=426x240,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
