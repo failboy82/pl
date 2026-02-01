@@ -50,7 +50,7 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302301&output=mpeg
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/sctv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",INDOSIAR
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62227
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/62227.ts
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62227&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
 
 #EXTVLCOPT:http-referrer=http://filex.me:8080
@@ -284,7 +284,7 @@ https://flv.intechmedia.net/live/ch109.m3u8
 https://flv.intechmedia.net/live/ch101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI ID" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png" group-title="Indonesia",TVRI
-http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62177
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/62177.ts
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62177&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" group-title="FTA",TVRI Sport
@@ -442,6 +442,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
