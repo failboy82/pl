@@ -1,0 +1,449 @@
+﻿#EXTM3U
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.h8cmvvbia_JnwGLtyhUfeAAAAA?pid=Api&P=0&w=391&h=216.png",ANTV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Antv
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302206&output=mpegts
+http://filex.tv:8080/live/uk007/000920/live.m3u8?stream=302206&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/antv.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Antv.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://images.indihometv.com/assets/88_MDTV_2025_03_17_14_56_36.png",MDTV
+http://202.169.224.203:8800//udp/239.1.1.1:1234
+http://103.180.118.5:9981/stream/channelid/2128249748
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://video.detik.com&referer=https://video.detik.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=edef8ba9-79d6-4ace-a3c8-27dcd51d21ed
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e14061fc-df59-4596-a365-0cf88a0faa1f/dgj7m6k-f2b1cd55-d20e-44a4-9e02-31c4faa8e05f.png/v1/fill/w_660,h_307/trans_tv_2012_13_laliga_logo_variant_by_ap41ii_dgj7m6k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA3IiwicGF0aCI6Ii9mL2UxNDA2MWZjLWRmNTktNDU5Ni1hMzY1LTBjZjg4YTBmYWExZi9kZ2o3bTZrLWYyYjFjZDU1LWQyMGUtNDRhNC05ZTAyLTMxYzRmYWE4ZTA1Zi5wbmciLCJ3aWR0aCI6Ijw9NjYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.4KpmetXSQ2R948oIf_7fXH_Ys2hoDxC6VytVdMSJXKk" channel-id="TransTV.id",Trans TV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Transtv
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist.m3u8?deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=12.02.26100.4343&deviceType=NSPlayer&deviceMake=NSPlayer&deviceDNT=0
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w472929602_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="ENTERTAINMENT",VISION PRIME
+https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://iptvsystem.my.id/img/RCTI.png" channel-id="RCTI.id",RCTI
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Rcti
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302297&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302297&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
+
+#EXTINF:-1  group-title="DIGITAL STREAM" tvg-logo="https://iili.io/JMp3iiX.png" channel-id="SCTV.id",SCTV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Sctv
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302301&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302301&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/sctv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",INDOSIAR
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/indosiar
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62227&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62227
+
+#EXTVLCOPT:http-referrer=http://filex.me:8080
+#KODIPROP:inputstream.adaptive.stream_headers=origin=http://filex.me:8080&referer=http://filex.me:8080/&user-agent=NSPlayer/12.02.26100.4343 (Linux;Android/15.0.0;Kodi/21.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png", MOJI
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Moji
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302279&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302279&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/moji.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="INDONESIA TV", SIN PO TV
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/chunklist_w472929602_b744100_sleng.mpd
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://lo1.in/indo/tran.png",Trans7
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Trans7
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/live.m3u8?stream=4&output=mpegts
+http://iptv.kilas7.com:80/kaukia/asdfrewq/4?type=m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Mnctv
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302278&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302278&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/mnctv.m3u8
+
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Tv9
+http://mytv-extra.com:88/live/1827214806/9371309264/live.m3u8?stream=34485&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34485.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY| ASTRO CERIA HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a71f69b9-20f6-499e-ad25-21349a828666/diqins9-c4cc5923-4078-4026-bcab-e76afd29c7cc.png/v1/fill/w_894,h_894/official_astro_go_app_icon__2024___present__by_spectragfx24_diqins9-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiIvZi9hNzFmNjliOS0yMGY2LTQ5OWUtYWQyNS0yMTM0OWE4Mjg2NjYvZGlxaW5zOS1jNGNjNTkyMy00MDc4LTQwMjYtYmNhYi1lNzZhZmQyOWM3Y2MucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Zlhr9E8Xn1_chmJlns4NEHhcv3X0ZLlmmHrbNK4RWQA" group-title="?AS | MALAYSIA",CERIA
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Ceria
+http://mytv-extra.com:88/live/1827214806/9371309264/live.m3u8?stream=34439&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/34439.m3u8
+
+#EXTVLCOPT:http-referrer=https://roku.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://roku.com
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" channel-id="f66aa243a9465896ac3e7eaef7cba3fd",Power Rangers
+https://aka-live1050.delivery.roku.com/5f50daaa-1789-48e2-b536-559a5a86a052/t2-origin/out/v1/live.m3u8?deviceId=channel&deviceModel=web&deviceVersion=139.0.7258.0&appVersion=13.1.1.6681072&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=0
+http://jmp2.uk/rok-f66aa243a9465896ac3e7eaef7cba3fd.m3u8
+https://d22hbrdk1ms70k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u5j216beeqbyv/out/v1/7da51d6be9ba47ada0d4ab4ca783104f/HLS_CMAF_DRM/index.m3u8
+https://aka-live491.delivery.roku.com/5f50daaa-1789-48e2-b536-559a5a86a052/t2-origin/out/v1/live.m3u8
+
+#EXTVLCOPT:http-referrer=https://roku.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://roku.com
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.pluto.tv/series/6233a42ca46b5d0013f8784e/tile.jpg" channel-id="56171fafada51f8004c4b40f",Power Rangers (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=139.0.7258.0&appVersion=13.1.1.6681072&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=0
+https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mighty Morphin Power Rangers" tvg-logo="" group-title="24/7 SHOWS (M - Z)",Mighty Morphin Power Rangers
+http://supersonictv.live:8080/311868/839426/80537?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+http://185.156.74.131:25461/live/311868/839426/80537.m3u8?token=ShRZAEYJFQxGXVFeVwUAVFJZAQAEAF8DU1ZVDlVSA1AHDgVSUFMDAQYaShpGQUQDVlVuXFUXAw4FVwQAHRYTFVREbghRQw0UVQlRAAMXGkRDUVxQEw8JGhcSXlMTDkRXAAADVRdNFVMcTANKW1RaOVNdR1xSUBsMWxdbWx0WCQhuUlQMVA9TFF4aVxoZF18VRxoLW0RZVRoXAF5DQ1USAxMMXxRZDRsUB1cTVkFHT0QNGnhxExkbU00WUllCXQkIEwwTDAYUDxRIGg9LakdTFUNKVFRcUEsUD0AHFR0WCwdJaVIOWw9SVRBRCVZGFwxEAxodF1xaV19BDUVoQV0CRAsUAFAAVgAUGQ==
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mighty Morphin Power Rangers" tvg-logo="https://i.ibb.co/spynTxXd/FREEGO.png" group-title="24/7 Adventure",24/7 Mighty Morphin Power Rangers
+http://xline.live:2052/Bernie/Bernie123/332450
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Power Rangers" tvg-logo="https://i.ibb.co/3XbRhsf/FREEGO-1.png" group-title="24/7 Kids",24/7: Power Rangers
+http://xline.live:2052/Bernie/Bernie123/204804
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Dino Super Charge" tvg-logo="https://i.ibb.co/gLL3YhPq/Chat-GPT-Image-Dec-1-2025-06-18-57-AM.png" group-title="24/7 Action",24/7 Power Rangers Dino Super Charge
+http://xline.live:2052/Bernie/Bernie123/332988
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Dino Super Charge" tvg-logo="" group-title="24/7 SHOWS (M - Z)",Power Rangers Dino Super Charge
+http://supersonictv.live:8080/311868/839426/80711?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Beast Morphers" tvg-logo="" group-title="24/7 KIDS & FAMILY",Power Rangers Beast Morphers
+http://supersonictv.live:8080/311868/839426/79016?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+http://supersonictv.live:8080/311868/839426/79015.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Beast Morphers" tvg-logo="https://i.ibb.co/gLL3YhPq/Chat-GPT-Image-Dec-1-2025-06-18-57-AM.png" group-title="24/7 Action",24/7 Power Rangers Beast Morphers
+http://xline.live:2052/Bernie/Bernie123/331091
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Beast Morphers" tvg-logo="https://i.ibb.co/3XbRhsf/FREEGO-1.png" group-title="24/7 Kids",24/7 Power Rangers Beast Morphers
+http://xline.live:2052/Bernie/Bernie123/330150
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers in Space" tvg-logo="https://i.ibb.co/gLL3YhPq/Chat-GPT-Image-Dec-1-2025-06-18-57-AM.png" group-title="24/7 Action",24/7 Power Rangers in Space
+http://xline.live:2052/Bernie/Bernie123/330867
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers in Space" tvg-logo="http://live.realiptv.to:25461/images/49e20b8766c85b92858bdf473be281af.jpg" group-title="24/7 KIDS & FAMILY",Power Rangers in Space
+http://supersonictv.live:8080/311868/839426/79017?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Turbo" tvg-logo="https://vignette.wikia.nocookie.net/powerrangers/images/0/03/PR_Turbo_poster.jpg/revision/latest?cb=20191129131423" group-title="24/7 KIDS & FAMILY",Power Rangers Turbo
+http://supersonictv.live:8080/311868/839426/79018?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Turbo" tvg-logo="https://i.ibb.co/gLL3YhPq/Chat-GPT-Image-Dec-1-2025-06-18-57-AM.png" group-title="24/7 Action",24/7 Power Rangers Turbo
+http://xline.live:2052/Bernie/Bernie123/331974
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Zeo" tvg-logo="https://i.ibb.co/gLL3YhPq/Chat-GPT-Image-Dec-1-2025-06-18-57-AM.png" group-title="24/7 Action",24/7 Power Rangers Zeo
+http://xline.live:2052/Bernie/Bernie123/330880
+
+#EXTVLCOPT:http-referrer=http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_headers=referer==http://supersonictv.live:8080
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers Zeo" tvg-logo="http://live.realiptv.to:25461/images/fb1328d60c2351049f688c103e45acfb.jpg" group-title="24/7 KIDS & FAMILY",Power Rangers Zeo
+http://supersonictv.live:8080/311868/839426/79019?type=m3u8&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
+
+#EXTVLCOPT:http-user-agent=NSPlayer/12.02.26100.4343
+#EXTVLCOPT:http-referrer=https://roku.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://roku.com
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.pluto.tv/series/6745e550a7fde50013c6d0c1/tile.jpg" channel-id="5ff609de50ab210008025c1b",Kamen Rider (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=139.0.7258.0&appVersion=13.1.1.6681072&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=0
+https://player.twitch.tv/?channel=kamenrider_tv&parent=kamenrider_tv.twitch.tv
+
+#EXTVLCOPT:http-user-agent=NSPlayer/12.02.26100.4343
+#EXTVLCOPT:http-referrer=https://roku.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://roku.com
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.pluto.tv/channels/5c3f8f12a93c2d61b9990a4e/colorLogoPNG.png" channel-id="5ff608e60e2996000768c366",TokuSHOUTsu
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=139.0.7258.0&appVersion=13.1.1.6681072&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=0
+https://player.twitch.tv/?channel=tokushoutsu&parent=tokushoutsu.twitch.tv
+http://tokushoutsu-distro.amagi.tv/playlist.m3u8?subid1=20250827-1941-1720-bf87-839f20a6b3f6
+https://tokushoutsu-theta.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://www.ccw.eu/fileadmin/user_upload/Logos/Partner/tdm.png",TDM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.dens.tv/tv-premium
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfySBAhsmn9UR23UmYoq1gy34zd-LG-TL916KkuIOr0Zg1WARObs5eDpWidxdDJ5LqqTqO_G8bMx4RrVEc_WnDR21E349fdEZm72A865ktF98Fh5649d5h-CUGKhr3KXqvxchNmFsAwyhI8Lg2yeVJ2aUN6CUwyQ-SE9yiSsEY9PkjgAfmxUWTHOjGMSJK/s700/MYKIDZ.png", MY KIDZ HD
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=12.02.26100.4343&deviceType=NSPlayer&deviceMake=NSPlayer&deviceDNT=0
+
+#EXTINF:-1 group-title="Nasional" tvg-id="vtv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV_Indonesia_White_2023.svg/1024px-VTV_Indonesia_White_2023.svg.png?20231119113637",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://pictr.com/images/2023/05/18/E8snHv.png" channel-id="RajawaliTV.id",RTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch116.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://w7.pngwing.com/pngs/177/695/png-transparent-gtv-global-television-network-global-news-logo-tv-global-miscellaneous-television-text.png",GTV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Gtv
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302247&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302247&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/gtv.m3u8
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Glob.m3u8
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://warningfm.github.io/v3/img/eLjHSKm.png?v=1.1.1.1", NusantaraTV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/c64560f0f6d0b9b85d3ac93b8294945db851671b/378a642ff00fed9.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://garuda.tv/wp-content/uploads/2023/05/Logo-Final-GarudaTV-Retina-2023.png" channel-id="GarudaTV.id",Garuda TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch104.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png" group-title="ASIA | INDONESIA VIP", INEWS
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/iNews
+http://vipgerretger.top:8080/live/VIP01191699804893001/61699804893673/live.m3u8?stream=34335&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/chunklist_w472929602_b744100_sleng.mpd?output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/SindoNews
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aJhpmgf.png?v=1.1.1.1" group-title="DIGITAL STREAM", KompasTV
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Kompas
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302271&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302271&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/kompastv.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://docdog.top/logo/countries/uk/tvone.png" channel-id="tvOne.id",TVOne
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch109.m3u8
+
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/cb/Logo_Metro_Global_Network.png" channel-id="MetroTV.id",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch101.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI ID" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png" group-title="Indonesia",TVRI
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Tvri
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.m3u8?stream=62177&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.m3u8?stream=62177
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" group-title="FTA",TVRI Sport
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/TvriSport
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/live.m3u8?stream=272&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+http://iptv.kilas7.com:80/kaukia/asdfrewq/272?type=m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id@Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="ENterTainMent" http-referrer="https://malang.staratv.id/",Stara TV Malang (1080p)
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="ENterTainMent" http-referrer="https://bandung.staratv.id/",Stara TV Bandung (1080p)
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="ENterTainMent" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.r8i5gGZB4MDS0RznJEQm2wHaDt" channel-id="DanceTV.us",Song TV
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://cloudfront.net
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://cloudfront.net
+#EXTINF:-1 group-title="ENterTainMent" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.XdRLRVf58o24IqzxSr7QFgHaEx?pid=Api&P=0&w=620&h=400",Clubbing TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png" group-title="DAERAH",Hanacaraka TV
+https://fta3-cdn-flr.visionplus.id/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://iptvsystem.my.id/img/imc.png" channel-id="indonesiamoviechannel.id",IMC
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/Vg9xNm3/FLIK-malik.png" channel-id="Flik.id",FLIK
+#EXTVLCOPT:http-referrer=https://indihometv.com/
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://indihometv.com/
+#EXTVLCOPT:http-user-agent=android-R+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd?channel=flik&deviceId=channel&deviceModel=web&deviceVersion=10&appVersion=3.1.19&deviceType=MaxStreamPlayer&deviceMake=MaxStreamPlayer&deviceDNT=0
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg" channel-id="BioskopIndonesia.id",BIOSKOP INDONESIA
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/BioskopID
+http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302218&output=mpegts
+http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302218&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
+
+#EXTVLCOPT:http-referrer=https://live.catvod.com
+#KODIPROP:inputstream.adaptive.stream_headers=referer==https://live.catvod.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/SIAR_%28TV_logo%29.png/revision/latest/scale-to-width-down/300?cb=20220902115129" channel-id="Pesona.my",SIAR
+https://live.catvod.com/live.php?id=Siar&extension=m3u8
+https://smt.1678520.xyz/smt3.2.1.php?type=m3u8&id=Siar
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?type=m3u8&id=Siar
+http://alantang.serv00.net/smt.php?id=Siar&extension=m3u8
+http://robyang.serv00.net/smart.php?id=Siar/playlist.m3u8
+https://smart.946985.filegear-sg.me/smart.php?id=Siar
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="MY ??",TV3
+http://103.209.159.198:8278/TV3/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=28323e9b01c4b9940893f37f44d9f086
+https://ast.livecricketsl.live/proxy/sg.php/https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=tv3
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/bgmWtxL/DUNIA-LAIN.jpg" channel-id="DuniaLain.id",DUNIA LAIN
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://forsat.diskon.cloud/forsattv/forsatpro1900.php
+https://cdnjkt913.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_MAX_horizontal_on_white_.jpg/640px-Logo_MAX_horizontal_on_white_.jpg" channel-id="MaxStream.id",MAXSTREAM
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 (Linux; Android 20) jwPlayer/8.25.1
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
+#KODIPROP:inputstream.adaptive.license_key=97d7fdd53401393574dc42711f6b2c5a
+https://cdn08jtedge.indihometv.com/dassdvr/133/maxstream/manifest_wuseetv_qRFZS.mpd?deviceId=channel&deviceModel=web&deviceVersion=10&appVersion=3.1.4&deviceType=MaxStreamPlayer&deviceMake=MaxStreamPlayer&deviceDNT=0
+https://cdn08jtedge.indihometv.com/dass/133/maxstream/manifest.mpd
+https://streaming.indihometv.com/dassdvr/133/maxstream/manifest_wuseetv.mpd
+https://www.indihometv.com/cert_license_widevine_com.bin
+
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/allplayent.jpg" group-title="ENTERTAINMENT",USEE PRIME
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+
+#EXTVLCOPT:http-referrer=https://wahyu1ptv.pages.dev
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=2
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png", MOJI2
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+#EXTVLCOPT:http-referrer=http://185.245.0.208
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rctiw.jpg" group-title="INDONESIA TV", RCTI2
+http://technologycloud.eu:80/play/live.php?stream=1919407&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
+#EXTVLCOPT:http-referrer=http://185.245.0.208
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="INDONESIA TV",MNCTV2
+http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
+#EXTVLCOPT:http-referrer=http://185.245.0.208
+#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
+#KODIPROP:inputstream=ffmpegdirect
+#KODIPROP:inputstream.ffmpeg_options=-reconnect=1&-reconnect_streamed=1 -reconnect_delay_max=5
+#KODIPROP:inputstream.adaptive.manifest_mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:network-caching=2000
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
+http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
+
