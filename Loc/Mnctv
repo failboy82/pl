@@ -19,4 +19,4 @@ http://filex.me:8080/live/uk007/000920/live.m3u8?stream=302278&output=mpegts
 http://filex.me:8080/live/uk007/000920/live.m3u8?stream=302278&output=mpegts
 
 # keyframes
-#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64002a",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="http://filex.me:8080/live/uk007/000920/302278.m3u8/302206.m3u8?deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=18000000,CODECS="avc1.64002a",RESOLUTION=3840x2160,FRAME-RATE=60,VIDEO-RANGE=SDR,URI="http://filex.me:8080/live/uk007/000920/302278.m3u8?deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0"
