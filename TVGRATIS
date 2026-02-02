@@ -25,7 +25,14 @@ https://video.detik.com:443/transtv/smil:transtv.smil/chunklist.m3u8?deviceId=ch
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com:443/transtv/smil:transtv.smil/chunklist_w472929602_b744100_sleng.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="ENTERTAINMENT",VISION PRIME
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
@@ -435,6 +442,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
