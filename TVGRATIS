@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.h8cmvvbia_JnwGLtyhUfeAAAAA?pid=Api&P=0&w=391&h=216.png",ANTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Antv
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302206&output=mpegts
 http://filex.tv:8080/live/uk007/000920/live.m3u8?stream=302206&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
@@ -8,6 +9,7 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Antv.m3u8
 
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://images.indihometv.com/assets/88_MDTV_2025_03_17_14_56_36.png",MDTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://202.169.224.203:8800//udp/239.1.1.1:1234
 http://103.180.118.5:9981/stream/channelid/2128249748
 
@@ -38,11 +40,13 @@ https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/ind
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://iptvsystem.my.id/img/RCTI.png" channel-id="RCTI.id",RCTI
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Rcti
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302297&output=mpegts
 http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302297&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/rcti.m3u8
 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1  group-title="DIGITAL STREAM" tvg-logo="https://iili.io/JMp3iiX.png" channel-id="SCTV.id",SCTV
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Sctv
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302301&output=mpegts
@@ -57,9 +61,10 @@ https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Na
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Pesona)/master.mpd
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
-https://service.samproject.my.id/unifi/Pesona.mpd
+https://service.samprojct.my.id/unifi/Pesona.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INDOSIAR VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/indosiar.png" group-title="ASIA | INDONESIA VIP",INDOSIAR
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62227
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62227&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=21&appVersion=3.2&deviceType=SupersonicTV&deviceMake=SupersonicTV&deviceDNT=0
 
@@ -82,15 +87,18 @@ http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302279&output=mpeg
 https://raw.githubusercontent.com/denden79den/Channel-Tv/refs/heads/main/Tv%20Nasional%20Digital/moji.m3u8
 https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Moj.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="INDONESIA TV", SIN PO TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=shakaPlayer/4.16.1.00000000
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/chunklist_w472929602_b744100_sleng.mpd
 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://lo1.in/indo/tran.png",Trans7
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Trans7
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/live.m3u8?stream=4&output=mpegts
 http://iptv.kilas7.com:80/kaukia/asdfrewq/4?type=m3u8
 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png",MNCTV
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Mnctv
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302278&output=mpegts
@@ -110,8 +118,8 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live09.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://load.perfecttv.net/mpd/ceria/manifest.mpd
-
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+
 #EXTVLCOPT:http-referrer=https://roku.com
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://roku.com
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/f66aa243a9465896ac3e7eaef7cba3fd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683056022523_PWR_FAST_HUD_Logo_top_260x147.png" channel-id="f66aa243a9465896ac3e7eaef7cba3fd",Power Rangers
@@ -251,6 +259,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch116.m3u8
 
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 #EXTINF:-1 group-title="DIGITAL STREAM" tvg-logo="https://w7.pngwing.com/pngs/177/695/png-transparent-gtv-global-television-network-global-news-logo-tv-global-miscellaneous-television-text.png",GTV
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Gtv
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302247&output=mpegts
@@ -272,14 +281,16 @@ https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/ra
 https://flv.intechmedia.net/live/ch104.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png" group-title="ASIA | INDONESIA VIP", INEWS
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://vipgerretger.top:8080/VIP01191699804893001/61699804893673/34335
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=shakaPlayer/4.16.1.00000000
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/chunklist_w472929602_b744100_sleng.mpd?output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aJhpmgf.png?v=1.1.1.1" group-title="DIGITAL STREAM", KompasTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Kompas
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302271&output=mpegts
 http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302271&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
@@ -300,14 +311,17 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62177
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62177&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI Sport" tvg-logo="https://tv.cic.net.id/uploads/TV_RI.png" group-title="FTA",TVRI Sport
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/TvriSport
 http://iptv.kilas7.com:80/live/kaukia/asdfrewq/live.m3u8?stream=272&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
 http://iptv.kilas7.com:80/kaukia/asdfrewq/272?type=m3u8
 
 #EXTINF:-1 tvg-id="StaraTV.id@Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="ENterTainMent" http-referrer="https://malang.staratv.id/",Stara TV Malang (1080p)
+#EXTVLCOPT:http-user-agent=android-R+
 https://malang.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="ENterTainMent" http-referrer="https://bandung.staratv.id/",Stara TV Bandung (1080p)
+#EXTVLCOPT:http-user-agent=android-R+
 https://bandung.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="ENterTainMent" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.r8i5gGZB4MDS0RznJEQm2wHaDt" channel-id="DanceTV.us",Song TV
@@ -353,6 +367,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest_wuseetv_qRFZS.mpd?channel=flik&deviceId=channel&deviceModel=web&deviceVersion=10&appVersion=3.1.19&deviceType=MaxStreamPlayer&deviceMake=MaxStreamPlayer&deviceDNT=0
 
 #EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i.ibb.co.com/hsPmSbf/BIOSKOP-INDO.jpg" channel-id="BioskopIndonesia.id",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/BioskopID
 http://ip96.uk:8080/live/Ghosia104/pathan104/live.m3u8?stream=302218&output=mpegts
 http://filex.me:8080/live/MAS101A/MAS101AABB/live.m3u8?stream=302218&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
@@ -393,9 +408,9 @@ https://cdn08jtedge.indihometv.com/dass/133/maxstream/manifest.mpd
 https://streaming.indihometv.com/dassdvr/133/maxstream/manifest_wuseetv.mpd
 https://www.indihometv.com/cert_license_widevine_com.bin
 
+#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/allplayent.jpg" group-title="ENTERTAINMENT",USEE PRIME
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/allplayent.jpg" group-title="ENTERTAINMENT",USEE PRIME
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://wahyu1ptv.pages.dev
@@ -454,6 +469,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
