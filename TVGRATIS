@@ -306,7 +306,6 @@ https://flv.intechmedia.net/live/ch101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI ID" tvg-logo="https://pictr.com/images/2023/05/18/E8s4nV.png" group-title="Indonesia",TVRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/62177
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/live.ts?stream=62177&output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=7.16.6-prod.release+87ac6dbbcc&deviceType=VidioPlayer&deviceMake=VidioPlayer&deviceDNT=0
 
@@ -468,7 +467,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #KODIPROP:network-caching=2000
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
-http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+http://256.myvnc.com:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
 
 
 
