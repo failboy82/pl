@@ -424,7 +424,7 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 #KODIPROP:network-caching=2000
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rctiw.jpg" group-title="INDONESIA TV", RCTI2
-http://technologycloud.eu:80/play/live.php?stream=1919407&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+http://technologycloud.eu:80/play/live.php?stream=1919408&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
 
 #EXTVLCOPT:http-referrer=http://185.245.0.208
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
@@ -453,6 +453,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://line.stayconnected.pro:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
