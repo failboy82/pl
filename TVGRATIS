@@ -323,7 +323,7 @@ https://malang.staratv.id/hls/0/stream.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 https://bandung.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1,Matrix TV
+#EXTINF:-1 tvg-logo="https://stream.matrixtv.id/logo/external",Matrix TV
 https://stream.matrixtv.id/hls/stream.m3u8
 
 #EXTINF:-1 group-title="ENterTainMent" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.r8i5gGZB4MDS0RznJEQm2wHaDt" channel-id="DanceTV.us",Song TV
@@ -471,6 +471,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://256.myvnc.com:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
