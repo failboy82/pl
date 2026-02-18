@@ -296,6 +296,14 @@ http://vipgerretger.top:8080/VIP014741741791708368/dd3d1441349e/34335
 #EXTVLCOPT:http-user-agent=shakaPlayer/4.16.1.00000000
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/chunklist_w472929602_b744100_sleng.mpd?output=mpegts&deviceId=channel&deviceModel=web&deviceVersion=25.34.34&appVersion=4.21.2.11.30.42.17.2021&deviceType=Allwinner&deviceMake=Allwinner&deviceDNT=0
 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ph03y3nk/dentovi/main/iptvlogo/BTV.png" group-title="INDIHOME",BTV
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/beritasatu/chunklist_w472929602_b744100_sleng.mpd
+
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/aJhpmgf.png?v=1.1.1.1" group-title="DIGITAL STREAM", KompasTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/Kompas
@@ -477,6 +485,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://256.myvnc.com:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
