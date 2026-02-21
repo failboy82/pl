@@ -289,6 +289,7 @@ https://flv.intechmedia.net/live/ch104.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IDS: INEWS VIP" tvg-logo="https://images.indihometv.com/assets/88_INEWS_2025_03_17_15_13_44.png" group-title="ASIA | INDONESIA VIP", INEWS
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/failboy82/pl/refs/heads/main/Loc/iNews
 http://vipgerretger.top:8080/VIP012661735133373287/6804a17c50b9/34335
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/7Jv7DPNY/SINDONEWS.png",SINDONEWS
@@ -485,6 +486,7 @@ http://alpha-2ott.me:80/play/live.php?stream=1919420&extension=m3u8&mac=A0:BB:3E
 #EXT-X-I-FRAMES-ONLY
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV2
 http://256.myvnc.com:80/play/live.php?stream=1919441&extension=m3u8&mac=A0:BB:3E:01:6A:1F&deviceId=channel&deviceModel=web&deviceVersion=100.34.34&appVersion=2.19.1&deviceType=ExoPlayer&deviceMake=ExoPlayerLib&deviceDNT=0
+
 
 
 
